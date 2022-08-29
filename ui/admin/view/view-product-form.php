@@ -233,7 +233,7 @@
       </div>
     </div>
   </div>
-  <script type="text/javascript"><!--
+  <script type="text/javascript">
 // Rich Text Editor
 $('#input-description').summernote({height: 300});
 //--></script> 
@@ -330,7 +330,7 @@ $('.datetime').datetimepicker({
 	pickTime: true
 });
 </script> 
-  <script type="text/javascript"><!--
+  <script type="text/javascript">
 $('#language a:first').tab('show');
 $('#option a:first').tab('show');
 //--></script></div>

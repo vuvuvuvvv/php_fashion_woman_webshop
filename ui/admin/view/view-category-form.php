@@ -75,8 +75,6 @@
                     <input type="text" name="sort_order" value="<?php echo $category_sort_order; ?>" placeholder="Thứ Tự Tìm Kiếm" id="input-sort-order" class="form-control" />
                   </div>
                 </div>
-
-
               </div>
             </div>
             <div class="tab-pane fade" id="tab-data">
@@ -189,8 +187,6 @@
     });
   </script>
   <script type="text/javascript">
-    <!--
     // filter here if needed
     //
-    -->
   </script>
